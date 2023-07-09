@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 Reach me @ as2386018@gmail.com
+- 💻 Collaboration @ linktr.ee/deakshaysaini
 
 <!---
 aakshay001/aakshay001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
